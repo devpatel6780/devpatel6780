@@ -26,10 +26,10 @@ I am passionate about **applying AI/ML techniques** in practical domains and con
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,react,angular)](https://skillicons.dev)  
 
 ### **Backend**  
-[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,py,django,flask,nodejs,c,cpp,php)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py,django,nodejs,c,cpp)](https://skillicons.dev)  
  
 ### **Databases**  
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,dynamodb)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb)](https://skillicons.dev)  
 
 ### **Frameworks & Libraries**  
 [![My Skills](https://skillicons.dev/icons?i=sklearn,opencv,redis,npm,nginx)](https://skillicons.dev)  
@@ -39,5 +39,5 @@ I am passionate about **applying AI/ML techniques** in practical domains and con
 
 ### **Connect with Me**  
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dev-patel-94ba5b212/)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/devpatel6780)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dev-patel-94ba5b212/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/devpatel6780)  
+ 
