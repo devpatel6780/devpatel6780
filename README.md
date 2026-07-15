@@ -1,24 +1,24 @@
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30%">
   <br><br>
-  
-## Dev Patel  
-#### MS in Computer Science | Python | Image Processing | Full Stack Development | AI/ML  
+Dev Patel
 
-<br />  
+AI/ML Engineer | LLM & RAG Systems | NLP | MLOps
 
-I am currently pursuing my **Master's in Computer Science** at the **University of Wisconsin-Milwaukee**, with a keen interest in **Python, Image Processing, AI/ML, and Full Stack Development**. My expertise spans across **PyTorch, skimage, and other image processing libraries**, enabling me to work on real-world AI-driven solutions.  
+<br />
+I recently completed my Master's in Computer Science at the University of Wisconsin–Milwaukee, where my thesis focused on deep learning for medical image classification (attention-based CNNs, Grad-CAM interpretability). I'm now building and shipping LLM-powered and agentic AI systems, with a focus on RAG pipelines, retrieval evaluation, and production-grade ML infrastructure.
 
-With **1+ years of experience as a Full Stack Developer**, I have worked extensively with **JavaScript, Node.js, React.js, and databases like Microsoft SQL Server**. My focus is on developing **scalable, efficient, and robust** applications, with an emphasis on **cloud computing and backend optimizations**.  
+My recent work includes building a from-scratch RAG Evaluation & Regression Harness (LangGraph, FAISS/ChromaDB, Ollama) with golden-set retrieval metrics like Hit@k and MRR, and a support ticket triage agent using LangGraph and FastAPI. Earlier experience spans production ML at scale — from NLP chatbots with transformer embeddings to end-to-end ML pipelines deployed via Docker and CI/CD.
 
-I am passionate about **applying AI/ML techniques** in practical domains and continuously expanding my knowledge in **deep learning, cloud computing, and system architecture**. Currently, I am looking for **internship or full-time opportunities** to contribute my skills to challenging projects in **AI, image processing, and software development**.  
+I'm currently looking for full-time opportunities as an AI Engineer / ML Engineer / LLM Engineer, where I can apply eval-first engineering practices to real-world AI products.
 
-- 🔭 **Technical Expertise:** Python, PyTorch, skimage, Image Processing, Java, JavaScript, Node.js, React.js  
-- 🌱 **Currently Exploring:** **Deep Learning, Computer Vision, and Scikit-Image for Image Processing**  
-- 👯 **Looking to Collaborate On:** Web Applications, AI/ML Projects, Cloud Computing Solutions  
-- 💬 **Ask me about anything**—I’m happy to help!  
-- 📫 **Reach me at:** devp70431@gmail.com  
-- ⭐ **Areas of Interest:** AI/ML, Image Processing, Cybersecurity, Web Development  
+
+🔭 Currently building: RAG evaluation tooling, LangGraph-based agents, retrieval regression testing
+🌱 Currently exploring: Agentic architectures, prompt engineering at scale, MLOps for LLM systems
+👯 Looking to collaborate on: RAG/LLM applications, evaluation frameworks, AI-powered backend systems
+💬 Ask me about: RAG pipelines, LLM evaluation, semantic search, ML deployment
+📫 Reach me at: devp70431@gmail.com
+⭐ Areas of interest: LLMs & RAG, NLP, MLOps, Deep Learning, Computer Vision
 
 ## 💻 My Tech Stack  
 
