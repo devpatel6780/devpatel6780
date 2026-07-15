@@ -17,7 +17,7 @@ I am passionate about **applying AI/ML techniques** in practical domains and con
 - 🌱 **Currently Exploring:** **Deep Learning, Computer Vision, and Scikit-Image for Image Processing**  
 - 👯 **Looking to Collaborate On:** Web Applications, AI/ML Projects, Cloud Computing Solutions  
 - 💬 **Ask me about anything**—I’m happy to help!  
-- 📫 **Reach me at:** drpatel@uwm.edu  
+- 📫 **Reach me at:** devp70431@gmail.com  
 - ⭐ **Areas of Interest:** AI/ML, Image Processing, Cybersecurity, Web Development  
 
 ## 💻 My Tech Stack  
