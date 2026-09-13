@@ -8,7 +8,7 @@ AI/ML Engineer | LLM & RAG Systems | NLP | MLOps
 <br />
 I recently completed my Master's in Computer Science at the University of Wisconsin–Milwaukee, where my thesis focused on deep learning for medical image classification (attention-based CNNs, Grad-CAM interpretability). I'm now building and shipping LLM-powered and agentic AI systems, with a focus on RAG pipelines, retrieval evaluation, and production-grade ML infrastructure.
 
-My recent work includes building a from-scratch RAG Evaluation & Regression Harness (LangGraph, FAISS/ChromaDB, Ollama) with golden-set retrieval metrics like Hit@k and MRR, and a support ticket triage agent using LangGraph and FastAPI. Earlier experience spans production ML at scale — from NLP chatbots with transformer embeddings to end-to-end ML pipelines deployed via Docker and CI/CD.
+My recent work includes building a from-scratch RAG Evaluation & Regression Harness (LangGraph, FAISS/ChromaDB, Ollama) with golden-set retrieval metrics like Hit@k and MRR, and a support ticket triage agent using LangGraph and FastAPI. Earlier experience spans production ML at scale from NLP chatbots with transformer embeddings to end-to-end ML pipelines deployed via Docker and CI/CD.
 
 I'm currently looking for full-time opportunities as an AI Engineer / ML Engineer / LLM Engineer, where I can apply eval-first engineering practices to real-world AI products.
 
