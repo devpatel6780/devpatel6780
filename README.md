@@ -12,12 +12,12 @@ Right now I'm at Honeywell, supporting a portfolio of enterprise applications, h
 
 Day to day, I'm in SQL Server and PostgreSQL validating data and troubleshooting failed transactions, in Splunk/Dynatrace/Datadog for monitoring and log analysis, and in Git/Jenkins/Azure DevOps supporting releases and deployment validation. I also lean on GitHub Copilot and Microsoft Copilot regularly for scripting, log analysis, and documentation.
 
-I'm finishing my Master's in Computer Science at the University of Wisconsin–Milwaukee (May 2026), and outside of work I've been spending time on AI/ML — mostly exploring how AIassisted tooling and automation can make application support and operations work faster and more reliable. Long term, I'm looking to grow further into cloud operations, DevOps, and SRE style roles where that overlap matters.
+I'm finishing my Master's in Computer Science at the University of Wisconsin–Milwaukee (May 2026), and outside of work I've been spending time on AI/ML mostly exploring how AIassisted tooling and automation can make application support and operations work faster and more reliable. Long term, I'm looking to grow further into cloud operations, DevOps, and SRE style roles where that overlap matters.
 
 🛠️ Currently focused on: incident/problem management, cloud monitoring, and automating support workflows
 🌱 Learning more about: AWS/Azure infrastructure, CI/CD at scale, and applying AI/ML to IT operations
 💬 Ask me about: application troubleshooting, RCA, ServiceNow/ITIL, or scripting for ops
-📫 Reach me at: devp70431@gmail.com
+📫 Reach me at: dp6807414@gmail.com
 
 ## 💻 Tech Stack
 
