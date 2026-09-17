@@ -1,43 +1,44 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30%">
-  <br><br>
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30%">
+<br><br>
 Dev Patel
 
-AI/ML Engineer | LLM & RAG Systems | NLP | MLOps
+Application Support Engineer | Cloud Platforms | Automation
 
 <br />
-I recently completed my Master's in Computer Science at the University of Wisconsin–Milwaukee, where my thesis focused on deep learning for medical image classification (attention-based CNNs, Grad-CAM interpretability). I'm now building and shipping LLM-powered and agentic AI systems, with a focus on RAG pipelines, retrieval evaluation, and production-grade ML infrastructure.
+I'm an Application Support Engineer with 3+ years of experience keeping enterprise applications and production systems running across AWS, Azure, and hybrid environments. Most of my work sits at the intersection of troubleshooting, incident/problem management, and automation — digging into an issue until I find the actual root cause, then making sure it doesn't come back.
 
-My recent work includes building a from-scratch RAG Evaluation & Regression Harness (LangGraph, FAISS/ChromaDB, Ollama) with golden-set retrieval metrics like Hit@k and MRR, and a support ticket triage agent using LangGraph and FastAPI. Earlier experience spans production ML at scale from NLP chatbots with transformer embeddings to end-to-end ML pipelines deployed via Docker and CI/CD.
+Right now I'm at Honeywell, supporting a portfolio of enterprise applications, handling incidents and service requests through ServiceNow, and writing Python, PowerShell, and Bash scripts to automate health checks, log collection, and other recurring support tasks. Before that, I was at Deloitte in India as a Systems Support Engineer, supporting applications across Linux/Unix and Windows environments and working through RCA and problem management to cut down repeat incidents.
 
-I'm currently looking for full-time opportunities as an AI Engineer / ML Engineer / LLM Engineer, where I can apply eval-first engineering practices to real-world AI products.
+Day to day, I'm in SQL Server and PostgreSQL validating data and troubleshooting failed transactions, in Splunk/Dynatrace/Datadog for monitoring and log analysis, and in Git/Jenkins/Azure DevOps supporting releases and deployment validation. I also lean on GitHub Copilot and Microsoft Copilot regularly for scripting, log analysis, and documentation.
 
+I'm finishing my Master's in Computer Science at the University of Wisconsin–Milwaukee (May 2026), and outside of work I've been spending time on AI/ML — mostly exploring how AI-assisted tooling and automation can make application support and operations work faster and more reliable. Long term, I'm looking to grow further into cloud operations, DevOps, and SRE-style roles where that overlap matters.
 
-🔭 Currently building: RAG evaluation tooling, LangGraph-based agents, retrieval regression testing
-🌱 Currently exploring: Agentic architectures, prompt engineering at scale, MLOps for LLM systems
-👯 Looking to collaborate on: RAG/LLM applications, evaluation frameworks, AI-powered backend systems
-💬 Ask me about: RAG pipelines, LLM evaluation, semantic search, ML deployment
+🛠️ Currently focused on: incident/problem management, cloud monitoring, and automating support workflows
+🌱 Learning more about: AWS/Azure infrastructure, CI/CD at scale, and applying AI/ML to IT operations
+💬 Ask me about: application troubleshooting, RCA, ServiceNow/ITIL, or scripting for ops
 📫 Reach me at: devp70431@gmail.com
-⭐ Areas of interest: LLMs & RAG, NLP, MLOps, Deep Learning, Computer Vision
 
-## 💻 My Tech Stack  
+## 💻 Tech Stack
 
-### **Frontend**  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,react,angular)](https://skillicons.dev)  
+### **Cloud & Monitoring**
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
-### **Backend**  
-[![My Skills](https://skillicons.dev/icons?i=java,cs,py,django,nodejs,c,cpp)](https://skillicons.dev)  
- 
-### **Databases**  
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb)](https://skillicons.dev)  
+Also work with: AWS CloudWatch, Azure Monitor, Application Insights, Splunk, Dynatrace, Datadog
 
-### **Frameworks & Libraries**  
-[![My Skills](https://skillicons.dev/icons?i=sklearn,opencv,redis,npm,nginx)](https://skillicons.dev)  
+### **Databases & OS**
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,linux,windows)](https://skillicons.dev)
 
-### **Tools**  
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,visualstudio,androidstudio,anaconda,ubuntu,bash,sublime,replit,pycharm,powershell,postman,git,github,eclipse&perline=8)](https://skillicons.dev)  
+Also work with: SQL Server, Unix
 
-### **Connect with Me**  
+### **Scripting & Automation**
+[![My Skills](https://skillicons.dev/icons?i=py,bash,powershell)](https://skillicons.dev)
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dev-patel-94ba5b212/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/devpatel6780)  
- 
+### **CI/CD & Tools**
+[![My Skills](https://skillicons.dev/icons?i=git,github,jenkins,docker,vscode,postman)](https://skillicons.dev)
+
+Also work with: ServiceNow, Jira, Azure DevOps
+
+### **Connect with Me**
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dev-patel-94ba5b212/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/devpatel6780)
