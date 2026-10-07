@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://devpatelassistant.vercel.app/">Portfolio</a> •
 <a href="https://www.linkedin.com/in/devrakeshpatel/">LinkedIn</a> •
-<a href="mailto:devp70431@gmail.com">Email</a>
+<a href="mailto:devp6780@gmail.com">Email</a>
 </p>
 
 ---
@@ -21,7 +21,7 @@ Lately I've been building **LLM and agentic systems** with an eval-first mindset
 - 🔭 **Working on:** multi-agent systems, RAG evaluation, and LLM observability
 - 🧠 **Interested in:** computer vision, model training & evaluation, and shipping ML to production
 - 💬 **Ask me about:** PyTorch training workflows, LangGraph, RAG, or explainable deep learning
-- 📫 **Reach me at:** devp70431@gmail.com
+- 📫 **Reach me at:** devp6780@gmail.com
 
 ---
 
